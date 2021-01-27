@@ -1,2 +1,3 @@
 # To-Do_List
-Created with CodeSandbox
+
+Using React to create a to do List app.
